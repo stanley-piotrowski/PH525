@@ -1,4 +1,4 @@
-# PH525.1-- Statistics with R
+# PH525.1-- Statistics and R
 
 This repository contains data, notes, and exercise solutions for HarvardX's [Statistics and R](https://www.edx.org/course/statistics-and-r), the first in the series of the [Data Analysis for the Life Sciences series](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences).  All data used in the course can be found in the `data` directory; notes and exercise solutions for each week, written primarily in the tidyverse style, can be found in the `scripts` directory.  A brief description of the materials covered each week and the content of the associated scripts can be found below.  
 
